@@ -1,0 +1,6 @@
+@SimpleFactoryPattern_HostAddress = http://localhost:5265
+
+GET {{SimpleFactoryPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
