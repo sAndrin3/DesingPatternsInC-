@@ -6,9 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalDesignPatterns", "CreationalDesignPatterns", "{EF6F249F-F02E-4500-B944-20AA10AC3344}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFactoryDesignPatterns", "SimpleFactoryDesignPatterns", "{1121A05C-1531-4D46-B740-E6B961567C0E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleFactoryPattern", "CreationalDesignPatterns\SimpleFactoryDesignPatterns\SimpleFactoryPattern\SimpleFactoryPattern.csproj", "{02D4E511-7AF5-451D-B969-644B380D226C}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
