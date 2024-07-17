@@ -1,0 +1,6 @@
+@CompositePattern_HostAddress = http://localhost:5245
+
+GET {{CompositePattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
