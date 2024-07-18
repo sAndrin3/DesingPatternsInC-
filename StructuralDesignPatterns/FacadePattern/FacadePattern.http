@@ -1,0 +1,6 @@
+@FacadePattern_HostAddress = http://localhost:5116
+
+GET {{FacadePattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
