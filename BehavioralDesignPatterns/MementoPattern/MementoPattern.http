@@ -1,0 +1,6 @@
+@MementoPattern_HostAddress = http://localhost:5037
+
+GET {{MementoPattern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
